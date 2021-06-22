@@ -1,0 +1,16 @@
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\prueba-ramas.exe
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\prueba-ramas.deps.json
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\prueba-ramas.runtimeconfig.json
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\prueba-ramas.runtimeconfig.dev.json
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\prueba-ramas.dll
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\ref\prueba-ramas.dll
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\bin\Debug\net5.0-windows\prueba-ramas.pdb
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.dll
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\ref\prueba-ramas.dll
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.pdb
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.genruntimeconfig.cache
