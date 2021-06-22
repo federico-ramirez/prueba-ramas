@@ -21,5 +21,10 @@ namespace prueba_ramas
         {
             MessageBox.Show("Holi");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Adiosh");
+        }
     }
 }

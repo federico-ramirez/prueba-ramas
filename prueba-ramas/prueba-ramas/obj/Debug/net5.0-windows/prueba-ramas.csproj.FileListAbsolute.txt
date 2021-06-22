@@ -14,3 +14,5 @@ C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\De
 C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\ref\prueba-ramas.dll
 C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.pdb
 C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.genruntimeconfig.cache
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba_ramas.Form1.resources
+C:\Users\feder\OneDrive\Documentos\prueba-ramas\prueba-ramas\prueba-ramas\obj\Debug\net5.0-windows\prueba-ramas.csproj.GenerateResource.cache
