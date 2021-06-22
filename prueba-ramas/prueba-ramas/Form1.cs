@@ -24,7 +24,7 @@ namespace prueba_ramas
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Adiosh");
+            MessageBox.Show("a");
         }
     }
 }
